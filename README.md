@@ -76,7 +76,3 @@ Customer-Segmentation/
 ```
 
 ---
-
-## 👤 Author
-
-Made with ❤️ — feel free to fork and star ⭐ if you found it useful!
